@@ -1,0 +1,24 @@
+{
+  "name": "Grunt",
+  "version": "0.0.1",
+  "description": "Grunt template",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StijnEversdijk/grunt-project.git"
+  },
+  "author": "Stijn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StijnEversdijk/grunt-project/issues"
+  },
+  "homepage": "https://github.com/StijnEversdijk/grunt-project",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
